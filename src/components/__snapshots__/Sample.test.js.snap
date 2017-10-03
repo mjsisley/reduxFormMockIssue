@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sample Component should render the snapshot 1`] = `
+<form>
+  <h1>
+    Example Redux Form with Selector
+  </h1>
+  <div
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "width": "100%",
+      }
+    }
+  >
+    <label>
+      Label
+    </label>
+    <input
+      name="keyOfState"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onDragStart={[Function]}
+      onDrop={[Function]}
+      onFocus={[Function]}
+      type="text"
+      value=""
+    />
+  </div>
+</form>
+`;
